@@ -1,0 +1,20 @@
+{
+  "name": "csv-silas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Reduz valores de arquivos csv",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raul010/csv-silas.git"
+  },
+  "author": "Raul e Silas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raul010/csv-silas/issues"
+  },
+  "homepage": "https://github.com/raul010/csv-silas#readme"
+}
